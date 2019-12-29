@@ -1,19 +1,5 @@
-{
-	"signers": [{
-			"name": "DZ Opvizor",
-			"signerId": "0x5a1917dec5f2128ad8a6928f488a353aa5e606ab"
-		},
-		{
-			"name": "DZ DZLabs",
-			"signerId": "0x4a1c0a803a03f1a695cc372f2b863aa846d08948"
-		},
-		{
-			"name": "DZ vChain",
-			"signerId": "0x7037f8ce7e3ec0a4830e55781b29368f22e4fc57"
-		},
-		{
-			"name": "Demo CodeNotary",
-			"signerId": "0xa6f8ee5e9edbc5722a3b7f104c9ae13da3d7b68f"
-		}
-	]
-}
+[{"name": "DZ Opvizor","signerId": "0x5a1917dec5f2128ad8a6928f488a353aa5e606ab"},
+{"name": "DZ DZLabs","signerId": "0x4a1c0a803a03f1a695cc372f2b863aa846d08948"},
+{"name": "DZ vChain","signerId": "0x7037f8ce7e3ec0a4830e55781b29368f22e4fc57"},
+{"name": "Demo CodeNotary","signerId": "0xa6f8ee5e9edbc5722a3b7f104c9ae13da3d7b68f"}
+]
